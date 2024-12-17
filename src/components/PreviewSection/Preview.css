@@ -1,0 +1,13 @@
+.platform-preview{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    padding: 2rem;
+    border: 1px solid;
+    border-radius: 1rem;
+}
+.platform-preview .meta-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    margin-top: 8px;
+}
